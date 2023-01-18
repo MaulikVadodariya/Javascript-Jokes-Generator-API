@@ -2,6 +2,6 @@
 
 By Maulik Vadodariya
 
-<!-- ## [Link to the live Project]() -->
+## [Link to the live Project](https://63c7f0b958dc5925ba49ade7--relaxed-puffpuff-ee05ee.netlify.app/)
 
 - This project is made using random api for generate new joke every time.
